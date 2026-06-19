@@ -605,7 +605,7 @@
                   (0, t.jsx)("div", {
                     className: "hidden sm:flex items-center gap-4",
                     children: (0, t.jsx)("a", {
-                      href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+                      href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xe5d7ec96347b5c251e08e5953fb15c8afefbd158",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       className: "manga-btn text-lg py-2",
@@ -764,14 +764,14 @@
                             (0, t.jsx)("code", {
                               className:
                                 "bg-black/5 px-3 py-1 rounded font-mono text-sm",
-                              children: "0xComingSoon...",
+                              children: "0xe5d7ec96347b5c251e08e5953fb15c8afefbd158...",
                             }),
                           ],
                         }),
                         (0, t.jsx)("button", {
                           onClick: () => {
                             navigator.clipboard.writeText(
-                              "0xComingSoon"
+                              "0xe5d7ec96347b5c251e08e5953fb15c8afefbd158"
                             ),
                               a(!0),
                               setTimeout(() => a(!1), 2e3);
@@ -1280,12 +1280,12 @@
       //     //                           className:
       //     //                             "bg-black text-white p-3 rounded font-mono text-sm break-all flex-1 border-2 border-black",
       //     //                           children:
-      //     //                             "0xComingSoon",
+      //     //                             "0xe5d7ec96347b5c251e08e5953fb15c8afefbd158",
       //     //                         }),
       //     //                         (0, t.jsx)("button", {
       //     //                           onClick: () => {
       //     //                             navigator.clipboard.writeText(
-      //     //                               "0xComingSoon"
+      //     //                               "0xe5d7ec96347b5c251e08e5953fb15c8afefbd158"
       //     //                             ),
       //     //                               a(!0),
       //     //                               setTimeout(() => a(!1), 2e3);
