@@ -800,7 +800,7 @@
                           ],
                         }),
                         (0, t.jsx)("a", {
-                          href: "https://x.com/elunmeskoneth",
+                          href: "https://x.com/elunmesk_coin",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           className:
@@ -1373,7 +1373,7 @@
       //     //                       children: "Telegram",
       //     //                     }),
       //     //                     (0, t.jsx)("a", {
-      //     //                       href: "https://x.com/elunmeskoneth",
+      //     //                       href: "https://x.com/elunmesk_coin",
       //     //                       className:
       //     //                         "manga-btn bg-white text-black flex-1 text-center py-4",
       //     //                       children: "Twitter",
@@ -1651,7 +1651,7 @@
       //   //                     children: "ENTER LAB",
       //   //                   }),
       //   //                   (0, t.jsx)("a", {
-      //   //                     href: "https://x.com/elunmeskoneth",
+      //   //                     href: "https://x.com/elunmesk_coin",
       //   //                     className:
       //   //                       "manga-btn bg-white text-black text-2xl py-5 px-12",
       //   //                     children: "Twitter",
@@ -1747,7 +1747,7 @@
                           className: "flex gap-4",
                           children: [
                             (0, t.jsx)("a", {
-                              href: "https://x.com/elunmeskoneth",
+                              href: "https://x.com/elunmesk_coin",
                               className:
                                 "manga-btn w-12 h-12 p-0 flex items-center justify-center",
                               "aria-label": "Twitter",
